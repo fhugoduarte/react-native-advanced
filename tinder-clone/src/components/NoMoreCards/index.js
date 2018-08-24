@@ -4,20 +4,18 @@ import { Card, Button } from 'react-native-elements';
 
 import styles from './styles';
 
-const card = (item) => (
+const noMoreCards = () => (
 	<Card
-		key={item.id}
-		image={{uri: item.uri}}
+		title="All Done!"
 	>
 		<Text style={styles.cardTitle}>
-			{item.text}
+			There's no more content here!
 		</Text>
 		<Button
-			title="View Now!"
-			icon={{name: 'eye', type: 'font-awesome'}}
+			title="Get More!"
 			backgroundColor="#03A9F4"
 		/>
 	</Card>
 );
 
-export default card;
+export default noMoreCards;

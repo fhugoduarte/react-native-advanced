@@ -7,7 +7,7 @@ const styles = StyleSheet.create({
 		paddingLeft: 12,
 		paddingBottom: 30,
 		paddingTop: 5,
-		fontSize: 20
+		fontSize: 20,
 	}
 });
 
