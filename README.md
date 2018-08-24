@@ -1,4 +1,4 @@
-# React Native Advanced Projects
+# Tiner Clone Application
 
 #### About Projects:
 
@@ -6,7 +6,7 @@ Hybrid mobile application projects using the **React Native framework**. The app
 
 ---
 
-#### Projects:
-1. [**Tider Clone**](https://github.com/fhugoduarte/react-native-advanced/tree/master/tinder-clone) application:
+#### Projects ScreenShots:
+**1. [Tider Clone](https://github.com/fhugoduarte/react-native-advanced/tree/master/tinder-clone) application:**
     <br/><br/>
     <img align="center" src="https://uploaddeimagens.com.br/images/001/576/444/full/iphone_6_port_white.png?1535130621" width="250"/>
